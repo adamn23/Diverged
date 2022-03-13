@@ -1,2 +1,2 @@
 # Diverged
-An engine created in C++ using OpenGL.
+A game engine created in C++.
